@@ -1,3 +1,5 @@
+/* Queue implementaion */
+
 #include<iostream>
 #include<cstdlib>
 #define MAX 8
