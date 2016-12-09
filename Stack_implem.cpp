@@ -1,3 +1,5 @@
+/* Stack implementation */
+
 #include<iostream>
 #include<cstdlib>
 #define MAX 8
