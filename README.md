@@ -1,6 +1,6 @@
 # Code-Daily
 
-Daily practice codes
+Daily practice codes in C++
 
   1. SLL  implementation
   
