@@ -1,3 +1,5 @@
+/* Circular queue implementation */
+
 #include<iostream>
 #include<cstdlib>
 #define MAX 8
