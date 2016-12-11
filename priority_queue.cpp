@@ -1,3 +1,5 @@
+/* Priority queue using circular queue */
+
 #include<iostream>
 #include<cstdlib>
 #define MAX 8
