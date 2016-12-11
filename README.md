@@ -11,3 +11,5 @@ Daily practice codes in C++
   4. Queue implementation
   
   5. Circular Queue implementation
+  
+  6. Priority Queue imlementation 
