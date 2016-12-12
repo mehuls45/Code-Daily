@@ -13,3 +13,7 @@ Daily practice codes in C++
   5. Circular Queue implementation
   
   6. Priority Queue imlementation 
+  
+  7. Bubble Sort
+  
+  8. Selection Sort
