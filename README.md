@@ -17,3 +17,7 @@ Daily practice codes in C++
   7. Bubble Sort
   
   8. Selection Sort
+  
+  9. Binary Search
+  
+  10. Fibonacci Search
