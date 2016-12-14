@@ -21,3 +21,5 @@ Daily practice codes in C++
   9. Binary Search
   
   10. Fibonacci Search
+  
+  11. Insertion Sort
