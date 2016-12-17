@@ -25,3 +25,5 @@ Daily practice codes in C++
   11. Insertion Sort
   
   12. Quick Sort
+  
+  13. Merge Sort
