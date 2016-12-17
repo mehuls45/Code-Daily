@@ -1,3 +1,5 @@
+/* Merge Sort */
+
 #include<iostream>
 #include<cstdlib>
 #define MAX 100000
