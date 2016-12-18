@@ -1,7 +1,9 @@
+/* Merge Sort */
+
 #include<iostream>
 #include<cstdlib>
 #define MAX 100000
-#define N 100000
+#define N 10000
 using namespace std;
 
     void merge_sort(int[],int,int);
