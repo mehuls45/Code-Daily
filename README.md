@@ -3,13 +3,13 @@
   Daily practice codes in C++
   
   
-  **Linked List implementation**
+  ###**Linked List implementation**
 
      -SLL  implementation
   
      -DCLL implementation
   
-  **Stack and Queue**
+  ###**Stack and Queue**
   
      -Stack 
   
@@ -19,13 +19,13 @@
   
      -Priority Queue 
   
-  **Searching**
+  ###**Searching**
   
      -Binary Search
   
      -Fibonacci Search
   
-  **Sorting**
+  ###**Sorting**
   
     -Bubble Sort
   
