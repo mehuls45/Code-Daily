@@ -1,29 +1,38 @@
 # Code-Daily
 
-Daily practice codes in C++
+  Daily practice codes in C++
+  
+  
+  Linked List implementation
 
-  1. SLL  implementation
+     SLL  implementation
   
-  2. DCLL implementation
+     DCLL implementation
   
-  3. Stack implementation
+  Stack and Queue
   
-  4. Queue implementation
+     Stack implementation
   
-  5. Circular Queue implementation
+     Queue implementation
   
-  6. Priority Queue imlementation 
+     Circular Queue implementation
   
-  7. Bubble Sort
+     Priority Queue imlementation 
   
-  8. Selection Sort
+  Searching 
   
-  9. Binary Search
+     Binary Search
   
-  10. Fibonacci Search
+     Fibonacci Search
   
-  11. Insertion Sort
+  Sorting
   
-  12. Quick Sort
+    Bubble Sort
   
-  13. Merge Sort
+    Selection Sort
+  
+    Insertion Sort
+  
+    Quick Sort
+  
+    Merge Sort
