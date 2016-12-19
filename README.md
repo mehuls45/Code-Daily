@@ -11,13 +11,13 @@
   
   Stack and Queue
   
-     Stack implementation
+     Stack 
   
-     Queue implementation
+     Queue 
   
-     Circular Queue implementation
+     Circular Queue 
   
-     Priority Queue imlementation 
+     Priority Queue 
   
   Searching 
   
