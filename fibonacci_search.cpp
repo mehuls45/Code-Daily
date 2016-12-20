@@ -1,3 +1,5 @@
+/* Fibonacci Search */
+
 #include<iostream>
 #define MAX 100
 #define N 10
